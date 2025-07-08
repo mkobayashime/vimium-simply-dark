@@ -9,9 +9,5 @@
     "stylelint-order": "^4.0.0",
     "stylelint-prettier": "^1.1.2",
     "stylelint-scss": "^3.14.2"
-  },
-  "scripts": {
-    "dev": "sass *.scss *.css --watch --no-source-map --style=compressed",
-    "build": "sass *.scss *.css --no-source-map --style=compressed"
   }
 }
